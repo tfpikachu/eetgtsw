@@ -1,0 +1,1 @@
+Eigene Fahrzeugbilder hier ablegen. Empfohlenes Format: JPG, PNG oder WebP, möglichst 1200 x 700 Pixel. Anschließend den relativen Pfad in assets/data/fahrzeuge.js eintragen, z. B. bild: "assets/img/fahrzeuge/br185.jpg".

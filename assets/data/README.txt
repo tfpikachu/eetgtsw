@@ -1,0 +1,1 @@
+Hier können später Fahrzeugdaten oder News als JSON ergänzt werden.

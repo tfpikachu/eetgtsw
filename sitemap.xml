@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/fuhrpark.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/miete.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/leistungen.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/kontakt.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/impressum.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://DEIN-NUTZERNAME.github.io/DEIN-REPOSITORY/datenschutz.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
