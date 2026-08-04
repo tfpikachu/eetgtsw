@@ -126,7 +126,7 @@ window.EETG_VEHICLES = [
     status: "EETG Flotte",
     geschwindigkeit: "140 km/h",
     leistung: "5.600 kW",
-    bild: "assets/img/fahrzeuge/br185.jpg"
+    bild: "assets/img/fahrzeuge/br1852.jpg"
   },
   {
     name: "BR 204",
