@@ -93,15 +93,6 @@ window.EETG_VEHICLES = [
     bild: ""
   },
   {
-    name: "BR 140",
-    kategorie: "electric",
-    typ: "Elektrolokomotive",
-    status: "EETG Flotte",
-    geschwindigkeit: "160 km/h",
-    leistung: "4.000 kW",
-    bild: ""
-  },
-  {
     name: "BR 145",
     kategorie: "electric",
     typ: "Elektrolokomotive",
@@ -135,7 +126,7 @@ window.EETG_VEHICLES = [
     status: "EETG Flotte",
     geschwindigkeit: "140 km/h",
     leistung: "5.600 kW",
-    bild: ""
+    bild: "assets/img/fahrzeuge/br185.jpg"
   },
   {
     name: "BR 204",
