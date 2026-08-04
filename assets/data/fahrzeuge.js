@@ -81,7 +81,7 @@ window.EETG_VEHICLES = [
     status: "EETG Flotte",
     geschwindigkeit: "110 km/h",
     leistung: "3.620 kW",
-    bild: ""
+    bild: "assets/img/fahrzeuge/140.png"
   },
   {
     name: "BR 143",
@@ -135,7 +135,7 @@ window.EETG_VEHICLES = [
     status: "EETG Flotte",
     geschwindigkeit: "100 km/h",
     leistung: "1.100 kW",
-    bild: ""
+    bild: "assets/img/fahrzeuge/204.png"
   },
   {
     name: "BR 218",
